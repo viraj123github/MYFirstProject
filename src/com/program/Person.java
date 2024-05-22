@@ -9,6 +9,7 @@ public class Person {
 	public void m1()
 	{
 		System.out.println("hellow i am doing coding");
+		System.out.println("hi successully done");
 	}
 
 }
