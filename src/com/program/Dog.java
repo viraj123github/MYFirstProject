@@ -5,7 +5,7 @@ public class Dog {
 		System.out.println("bark");
 		System.out.println("eat");
 		System.out.println("hi this is viraj");
-		System.out.println("rasika");
+		
 	}
 
 }
